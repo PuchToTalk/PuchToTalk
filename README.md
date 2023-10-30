@@ -2,10 +2,11 @@
 
 <h3 align="center">MSc Candidate in Data Intelligence Engineering at ISEP Paris & VSR at Stanford University</h3><br>
 
+<p align="center">
+<img src= https://github.com/PuchToTalk/PuchToTalk/assets/90144938/bd200be5-65de-4663-afeb-b4a2924a1c5e width="18%" height="9%">
 
-
-
-
+<img src= https://github.com/PuchToTalk/PuchToTalk/assets/90144938/e484dbba-1944-4bfc-9c0d-2020dc0188fd width="16%" height="8%">
+</p> 
 
 ## Recent learnings 📚 
 
@@ -28,6 +29,7 @@ Start May 13, 2023 • ⚽️ [Soccer Player Recommendation for the Worldcup •
 Start May 4, 2023 • 🐞 [Ladybugs classification • ML Project](https://github.com/PuchToTalk/Ladybug_project) • Completed Jun 7, 2023<br>
 
 Start Mar 5, 2023 • 🥕 [Tickarbone Carbon Emission website • TechforGood Project](https://github.com/PuchToTalk/Tickarbone) • Completed May 17, 2023<br><br>
+
 
 
 
