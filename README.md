@@ -21,13 +21,13 @@
 
 Start Oct 21, 2023 • 🐍 [LLM Finetuning • LLM Research](https://github.com/PuchToTalk/LLM) • Last Updated Oct 28, 2023<br>
 
-Start Sep 09, 2023 • 📈 [Testing FinBERT • DL Research](https://github.com/PuchToTalk/FinBERT) • Last Updated Oct 20, 2023<br>
+Start Sep 9, 2023 • 📈 [Testing FinBERT • DL Research](https://github.com/PuchToTalk/FinBERT) • Last Updated Oct 20, 2023<br>
 
 Start May 13, 2023 • ⚽️ [Soccer Player Recommendation for the Worldcup • Big Data Project](https://github.com/PuchToTalk/Football_WorldCup_Recommendation) • Completed Jun 12, 2023<br>   
 
 Start May 4, 2023 • 🐞 [Ladybugs classification • ML Project](https://github.com/PuchToTalk/Ladybug_project) • Completed Jun 7, 2023<br><br>
 
-
+Start Mar 5, 2023 • 🥕 [Tickarbone Carbon Emission website • TechforGood Project](https://github.com/PuchToTalk/Tickarbone) • Completed May 17, 2023<br><br>
 
 
 
