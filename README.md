@@ -1,13 +1,21 @@
 <h1 align="center"> Hi, I'm Paul Chu 👋 </h1>
 
-<h3 align="center">MSc Candidate in Data Intelligence Engineering at ISEP Paris & VSR at Stanford University</h3>
+<h3 align="center">MSc Candidate in Data Intelligence Engineering at ISEP Paris & VSR at Stanford University</h3><br>
+
+
+
+
+
 
 ## Recent learnings 📚 
 
 - Deep Learning : [https://www.youtube.com/watch?v=XUFLq6dKQok&list=PLO_fdPEVlfKoanjvTJbIbd9V5d9Pzp8Rw&index=1]
 - LLM, NLP, Convex Optimization : [https://arxiv.org/pdf/2002.10553.pdf]
 - Sentiment analysis : [https://monkeylearn.com/sentiment-analysis/]
-- Cross Entropy vs Hinge Loss function : [https://rohanvarma.me/Loss-Functions/] 
+- Cross Entropy vs Hinge Loss function : [https://rohanvarma.me/Loss-Functions/]<br><br>
+
+
+
 
 ## Recent works 🔍
 
@@ -17,7 +25,7 @@ Start Sep 09, 2023 • 📈 [Testing FinBERT • DL Research](https://github.com
 
 Start May 13, 2023 • ⚽️ [Soccer Player Recommendation for the Worldcup • Big Data Project](https://github.com/PuchToTalk/Football_WorldCup_Recommendation) • Completed Jun 12, 2023<br>   
 
-Start May 4, 2023 • 🐞 [Ladybugs classification • ML Project]([https://github.com/PuchToTalk/Ladybug_project)) • Completed Jun 7, 2023<br>
+Start May 4, 2023 • 🐞 [Ladybugs classification • ML Project]([https://github.com/PuchToTalk/Ladybug_project)) • Completed Jun 7, 2023<br><br>
 
 
 
