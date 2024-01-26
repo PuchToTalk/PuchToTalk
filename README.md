@@ -20,7 +20,7 @@
 
 ## Recent works 🔍
 
-Start Nov 17, 2023 • 🐍 [Convex Finetuning • Lab Research](https://github.com/PuchToTalk/Convex-Finetuning) • Last Updated Nov 28, 2023<br>
+Start Nov 17, 2023 • 🐍 [Convex Finetuning • Lab Research](https://github.com/PuchToTalk/Convex-Finetuning) • Last Updated Jan 25, 2024<br>
 
 Start Oct 21, 2023 • 🦙 [LLM Finetuning • Lab Research](https://github.com/PuchToTalk/LLM) • Last Updated Nov 15, 2023<br>
 
