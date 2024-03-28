@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Paul Chu 👋 </h1>
 
-<h3 align="center">Visiting Student Researcher at Stanford University, Research Assistant at Stanford Medicine, MSc in Data Science at ISEP Paris & V</h3><br>
+<h3 align="center">Visiting Student Researcher at Stanford University, Research Assistant at Stanford Medicine, MSc in Data Science at ISEP Paris</h3><br>
 
 <p align="center">
 <img src= https://github.com/PuchToTalk/PuchToTalk/assets/90144938/bd200be5-65de-4663-afeb-b4a2924a1c5e width="18%" height="9%">
