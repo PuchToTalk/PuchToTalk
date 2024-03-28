@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Paul Chu 👋 </h1>
 
-<h3 align="center">MSc Candidate in Data Intelligence Engineering at ISEP Paris & VSR at Stanford University</h3><br>
+<h3 align="center">Visiting Student Researcher at Stanford University, Research Assistant at Stanford Medicine, MSc in Data Science at ISEP Paris & V</h3><br>
 
 <p align="center">
 <img src= https://github.com/PuchToTalk/PuchToTalk/assets/90144938/bd200be5-65de-4663-afeb-b4a2924a1c5e width="18%" height="9%">
@@ -19,6 +19,8 @@
 
 
 ## Recent works 🔍
+
+Start Mar 23, 2024 • 💻 [LLM Finetuning • Mistral AI Hackathon](https://github.com/PuchToTalk/DOOM-MistralAI) • Last Updated Mar 25, 2024<br>
 
 Start Nov 17, 2023 • 🐍 [Convex Finetuning • Lab Research](https://github.com/PuchToTalk/Convex-Finetuning) • Last Updated Jan 25, 2024<br>
 
