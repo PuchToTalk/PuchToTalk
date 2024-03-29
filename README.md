@@ -20,13 +20,15 @@
 
 ## Recent works 🔍
 
-Start Mar 23, 2024 • 💻 [LLM Finetuning • Mistral AI Hackathon](https://github.com/PuchToTalk/DOOM-MistralAI) • Last Updated Mar 25, 2024<br>
+Start Mar 18, 2024 • 💻 [Meta-analysis NLP data extraction • RA Stanford Medicine](https://github.com/PuchToTalk/DOOM-MistralAI) • Last Updated Mar 28, 2024<br>
 
-Start Nov 17, 2023 • 🐍 [Convex Finetuning • Lab Research](https://github.com/PuchToTalk/Convex-Finetuning) • Last Updated Jan 25, 2024<br>
+Start Mar 23, 2024 • 🏆 [LLM Finetuning • Mistral AI Hackathon](https://github.com/PuchToTalk/DOOM-MistralAI) • Last Updated Mar 25, 2024<br>
 
-Start Oct 21, 2023 • 🦙 [LLM Finetuning • Lab Research](https://github.com/PuchToTalk/LLM) • Last Updated Nov 15, 2023<br>
+Start Nov 17, 2023 • 🐍 [Convex Finetuning • Stanford Lab Research](https://github.com/PuchToTalk/Convex-Finetuning) • Last Updated Jan 25, 2024<br>
 
-Start Sep 9, 2023 • 📈 [Testing FinBERT • DL Research](https://github.com/PuchToTalk/FinBERT) • Last Updated Oct 20, 2023<br>
+Start Oct 21, 2023 • 🦙 [LLM Finetuning • Stanford Lab Research](https://github.com/PuchToTalk/LLM) • Last Updated Nov 15, 2023<br>
+
+Start Sep 9, 2023 • 📈 [Testing FinBERT • Stanford Lab Research](https://github.com/PuchToTalk/FinBERT) • Last Updated Oct 20, 2023<br>
 
 Start May 13, 2023 • ⚽️ [Soccer Player Recommendation for the Worldcup • Big Data Project](https://github.com/PuchToTalk/Football_WorldCup_Recommendation) • Completed Jun 12, 2023<br>   
 
