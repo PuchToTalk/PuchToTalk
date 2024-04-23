@@ -20,7 +20,9 @@
 
 ## Recent works 🔍
 
-Start Mar 18, 2024 • 💻 [Meta-analysis NLP data extraction • RA Stanford Medicine](https://github.com/PuchToTalk/DOOM-MistralAI) • Last Updated Mar 28, 2024<br>
+Start Apr 02, 2024 • 🧬 [NIH Database - NAFLD analysis • RA Stanford Medicine](https://github.com/PuchToTalk/NAFLD-analysis) • Last Updated Apr 23, 2024<br>
+
+Start Mar 18, 2024 • 💻 [Meta-analysis NLP data extraction • RA Stanford Medicine](https://github.com/PuchToTalk/Meta-Analysis-extraction) • Last Updated Apr 25, 2024<br>
 
 Start Mar 23, 2024 • 🏆 [LLM Finetuning • Mistral AI Hackathon](https://github.com/PuchToTalk/DOOM-MistralAI) • Last Updated Mar 25, 2024<br>
 
