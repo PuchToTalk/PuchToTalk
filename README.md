@@ -48,7 +48,15 @@ Start Mar 5, 2023 • 🥕 [Tickarbone Carbon Emission website • TechforGood P
 ## Technologies 💻
 
 Languages<br>
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=#3776AB) [![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=coffeescript&logoColor=#2F2625)](#)  [![Javascript](https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript)](#) [![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5)](#) [![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&logoColor=1572B6)](#) 
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=#3776AB) [![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=coffeescript&logoColor=#2F2625)](#)  [![Javascript](https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript)](#) [![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5)](#) [![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&logoColor=1572B6)](#)
+### **Frameworks & Libraries**  
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js)  
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-000?style=for-the-badge&logo=tensorflow) ![LLM](https://img.shields.io/badge/-LLM-000?style=for-the-badge&logo=openai)  
+
+
+### **Business Intelligence & Data Tools**  
+![Power BI](https://img.shields.io/badge/-Power%20BI-000?style=for-the-badge&logo=powerbi) ![Tableau](https://img.shields.io/badge/-Tableau-000?style=for-the-badge&logo=tableau)  
+![Excel](https://img.shields.io/badge/-Excel-000?style=for-the-badge&logo=microsoftexcel&logoColor=green) ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=postgresql)  
 
 Environment<br>
 ![Google Colab](https://img.shields.io/badge/Google%20Colab%20-black?style=for-the-badge&logo=googlecolab&logoColor=#F9AB00) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook%20-black?style=for-the-badge&logo=jupyter&logoColor=#F37626) ![VSCode](https://img.shields.io/badge/-VSCode-000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC) [![PyCharm](https://img.shields.io/badge/-PyCharm-000?style=for-the-badge&logo=PyCharm&logoColor=green)](#) ![IntelliJ IDEA](https://img.shields.io/badge/-intellij-000?style=for-the-badge&logo=intellijidea&logoColor=pink)
