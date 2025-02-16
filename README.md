@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Paul Chu 👋 </h1>
 
-<h3 align="center">Visiting Student Researcher at Stanford University, Research Assistant at Stanford Medicine, MSc in Data Science at ISEP Paris</h3><br>
+<h3 align="center">ex-Visiting Student Researcher at Stanford University, MSc in Applied Mathematics, Computer Science at ENS Paris-Saclay</h3><br>
 
 <p align="center">
   
