@@ -3,28 +3,29 @@
 <h3 align="center">Visiting Student Researcher at Stanford University, Research Assistant at Stanford Medicine, MSc in Data Science at ISEP Paris</h3><br>
 
 <p align="center">
-<img src= https://github.com/PuchToTalk/PuchToTalk/assets/90144938/bd200be5-65de-4663-afeb-b4a2924a1c5e width="18%" height="9%">
+  
+<img src=https://github.com/user-attachments/assets/a4bd7548-d6b7-44be-b19b-f029db8cec68  width="18%" height="12%">
+
+<!--- <img src= https://github.com/PuchToTalk/PuchToTalk/assets/90144938/bd200be5-65de-4663-afeb-b4a2924a1c5e width="18%" height="9%"> -->
 
 <img src= https://github.com/PuchToTalk/PuchToTalk/assets/90144938/e484dbba-1944-4bfc-9c0d-2020dc0188fd width="16%" height="8%">
 </p> 
 
-## Recent learnings 📚 
+## Recent contributions 📚 
 
-- Deep Learning : [https://www.youtube.com/watch?v=XUFLq6dKQok&list=PLO_fdPEVlfKoanjvTJbIbd9V5d9Pzp8Rw&index=1]
-- LLM, NLP, Convex Optimization : [https://arxiv.org/pdf/2002.10553.pdf]
-- Sentiment analysis : [https://monkeylearn.com/sentiment-analysis/]
-- Cross Entropy vs Hinge Loss function : [https://rohanvarma.me/Loss-Functions/]<br><br>
+- Research Paper (under review for ICML 2025): Randomized Geometric Algebra Methods for Convex Neural Networks (Yifei Wang, Sungyoon Kim, Paul Chu, Indu Subramaniam, Mert Pilanci) : [https://arxiv.org/abs/2406.02806]
 
 
 
+## Recent projects 🔍
 
-## Recent works 🔍
+Start Nov 22, 2024 • 🏆 [Meta & HuggingFace hackathon • Magic Story Box](https://github.com/PuchToTalk/ConsumerEdgeHackaton) • Last Updated Nov 23, 2024<br>
 
 Start Apr 02, 2024 • 🧬 [NIH Database - NAFLD analysis • RA Stanford Medicine](https://github.com/PuchToTalk/NAFLD-analysis) • Last Updated Apr 23, 2024<br>
 
 Start Mar 18, 2024 • 💻 [Meta-analysis NLP data extraction • RA Stanford Medicine](https://github.com/PuchToTalk/Meta-Analysis-extraction) • Last Updated Apr 25, 2024<br>
 
-Start Mar 23, 2024 • 🏆 [LLM Finetuning • Mistral AI Hackathon](https://github.com/PuchToTalk/DOOM-MistralAI) • Last Updated Mar 25, 2024<br>
+Start Mar 23, 2024 • 🏆 [Mistral AI Hackathon • Mistral DOOM](https://github.com/PuchToTalk/DOOM-MistralAI) • Last Updated Mar 25, 2024<br>
 
 Start Nov 17, 2023 • 🐍 [Convex Finetuning • Stanford Lab Research](https://github.com/PuchToTalk/Convex-Finetuning) • Last Updated Jan 25, 2024<br>
 
