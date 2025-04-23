@@ -19,6 +19,8 @@
 
 ## Recent projects 🔍
 
+Start Apr 12, 2025 • 🏆 [Mistral AI & HF Robotics hackathon • Guess Who's Robot ](https://github.com/ahaffemayer/lerobot_jds.git) • Last Updated Apr 13, 2025<br>
+
 Start Nov 22, 2024 • 🏆 [Meta & HuggingFace hackathon • Magic Story Box](https://github.com/PuchToTalk/ConsumerEdgeHackaton) • Last Updated Nov 23, 2024<br>
 
 Start Apr 02, 2024 • 🧬 [NIH Database - NAFLD analysis • RA Stanford Medicine](https://github.com/PuchToTalk/NAFLD-analysis) • Last Updated Apr 23, 2024<br>
